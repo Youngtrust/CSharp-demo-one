@@ -1,0 +1,11 @@
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\bin\Debug\netcoreapp2.0\dotNetAssig1.deps.json
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\bin\Debug\netcoreapp2.0\dotNetAssig1.runtimeconfig.json
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\bin\Debug\netcoreapp2.0\dotNetAssig1.runtimeconfig.dev.json
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\bin\Debug\netcoreapp2.0\dotNetAssig1.dll
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\bin\Debug\netcoreapp2.0\dotNetAssig1.pdb
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.csprojResolveAssemblyReference.cache
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.csproj.CoreCompileInputs.cache
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.AssemblyInfoInputs.cache
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.AssemblyInfo.cs
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.dll
+D:\dotNetWorkSpace\AssignOneDemo\dotNetAssig1\obj\Debug\netcoreapp2.0\dotNetAssig1.pdb

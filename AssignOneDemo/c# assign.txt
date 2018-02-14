@@ -1,0 +1,11 @@
+1. fact - get input n and output should be n!
+
+2. To get sum of first n(input) even numbers
+
+3. (enter length, enter elem, print all)
+Read a length of the array from user and populate an array then print the array
+
+
+3. Repeat 3, and the do search on the array;
+
+	
