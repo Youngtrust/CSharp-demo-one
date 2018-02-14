@@ -1,2 +1,7 @@
 # CSharp-demo-one
-Get result of factorial(n), get sum of first n(input) even numbers, create array base on input
+Get result of factorial(n);
+Get sum of first n(input) even numbers;
+Create array base on input;
+
+
+Environment: VS2017
